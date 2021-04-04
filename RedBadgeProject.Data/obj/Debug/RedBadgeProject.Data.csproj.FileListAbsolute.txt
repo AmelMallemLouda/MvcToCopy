@@ -1,0 +1,16 @@
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\RedBadgeProject.Data.dll.config
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\RedBadgeProject.Data.dll
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\RedBadgeProject.Data.pdb
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\EntityFramework.dll
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\EntityFramework.xml
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\obj\Debug\RedBadgeProject.Data.csprojAssemblyReference.cache
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\obj\Debug\RedBadgeProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\obj\Debug\RedBadgeProject.Data.csproj.CopyComplete
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\obj\Debug\RedBadgeProject.Data.dll
+C:\Users\yalou\OneDrive\Bureau\Amel Red Badge\RedBadgeMVCProject\RedBadgeProject.Data\obj\Debug\RedBadgeProject.Data.pdb
